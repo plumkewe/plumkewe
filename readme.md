@@ -11,3 +11,4 @@ and
 
 listening to music :headphones:
 
+![](Altro/neco-arc-happy.gif)
