@@ -12,3 +12,6 @@ and
 listening to music :headphones:
 
 ![](Altro/neco-arc-happy.gif)
+
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
