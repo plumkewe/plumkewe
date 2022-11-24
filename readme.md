@@ -12,3 +12,6 @@ and
 listening to music :headphones:
 
 ![](Altro/neco-arc-happy.gif)
+
+
+[Shortcut to School](https://github.com/plumkewe/scuola/blob/main/Attività%20svolta/Attivita_svolta.md)
