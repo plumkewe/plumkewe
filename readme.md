@@ -12,6 +12,3 @@ and
 listening to music :headphones:
 
 ![](Altro/neco-arc-happy.gif)
-
-
-![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
