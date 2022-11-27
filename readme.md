@@ -1,17 +1,27 @@
 # Hey :wave:,
 
-###### I'm new to the world of coding, i publish my codes in Italian :it: (mostly homework stuff but i write my own codes too!)
+## I'm a student and a curious person kek!
 
-**My hobbies are:**<br /> 
-watching anime :jp:<br /> 
-playing chess :game_die:<br /> 
-annoying people :blush:
+- 📖 I'm currently studying C++
+- 🇯🇵 I love listening to music and watching anime
+- 🍾 2022-23 Goal: Study more about computer since
 
-and
 
-listening to music :headphones:
+## Languages and tools:
+
+[<img align="left" alt="c plus plus" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="c plus plus" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="c plus plus" width="26px" src="https://coderunnerapp.com/images/icon.png" style="padding-right:10px;" />][]
+
+
+<details open>
+	<summary>Shortcuts</summary>
+	<br>
+	[Attivita svolta](https://github.com/plumkewe/scuola/blob/main/Attivit%C3%A0%20svolta/Attivita_svolta.md) <br>
+	[Esercizi dal libro](https://github.com/plumkewe/scuola/tree/main/Esercizi%20dal%20libro) <br>
+	[Come riempire un array](https://github.com/plumkewe/CPP_miei_codici/tree/main/Miei%20codici/Array/Modi%20di%20riempire)
+</details>
+
+
 
 ![](Altro/neco-arc-happy.gif)
-
-
-[Shortcut to School](https://github.com/plumkewe/scuola/blob/main/Attività%20svolta/Attivita_svolta.md)
