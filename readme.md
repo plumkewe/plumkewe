@@ -14,7 +14,7 @@
 
 
 <details>
-	<summary><h2 align="left">Shortcuts</h2></summary>
+	<summary>Shortcuts</summary>
 	<br>
 	[Attivita svolta](https://github.com/plumkewe/scuola/blob/main/Attivit%C3%A0%20svolta/Attivita_svolta.md) <br>
 	[Esercizi dal libro](https://github.com/plumkewe/scuola/tree/main/Esercizi%20dal%20libro) <br>
