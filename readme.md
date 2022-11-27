@@ -16,10 +16,9 @@
 <details>
 	<summary><h2 align="left">Shortcuts</h2></summary>
 	<br>
-	
-	<a href="https://github.com/plumkewe/scuola/blob/main/Attivit%C3%A0%20svolta/Attivita_svolta.md">Attivita svolta</a> <br>
-	<a href="https://github.com/plumkewe/scuola/tree/main/Esercizi%20dal%20libro">Esercizi dal libro</a> <br>
-	<a href="https://github.com/plumkewe/CPP_miei_codici/tree/main/Miei%20codici/Array/Modi%20di%20riempire">Come riempire un array</a>
+	[Attivita svolta](https://github.com/plumkewe/scuola/blob/main/Attivit%C3%A0%20svolta/Attivita_svolta.md) <br>
+	[Esercizi dal libro](https://github.com/plumkewe/scuola/tree/main/Esercizi%20dal%20libro) <br>
+	[Come riempire un array](https://github.com/plumkewe/CPP_miei_codici/tree/main/Miei%20codici/Array/Modi%20di%20riempire)
 </details>
 
 
