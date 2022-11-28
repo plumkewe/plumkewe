@@ -4,7 +4,7 @@
 
 - 📖 I'm currently studying C++
 - 🇯🇵 I love listening to music and watching anime
-- 🍾 2022-23 Goal: Study more about computer since
+- 🍾 2022-23 Goal: Study more about computer science
 
 
 ## Languages and tools:
