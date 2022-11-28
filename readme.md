@@ -10,7 +10,6 @@
 ## Languages and tools:
 
 <img align="left" alt="c plus plus" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="c plus plus" width="26px" src="https://media.macosicons.com/parse/files/macOSicons/1230146dfe446161440b3d4f51b1c2d8_1617939712408.icns" style="padding-right:10px;" />
 <img align="left" alt="c plus plus" width="26px" src="https://coderunnerapp.com/images/icon.png" style="padding-right:10px;" /> <br> <br>
 
 
