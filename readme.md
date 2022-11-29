@@ -21,5 +21,8 @@
 </details>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=plumkewe&theme=midnight-purple&locale=it&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 
 ![](Altro/neco-arc-happy.gif)
