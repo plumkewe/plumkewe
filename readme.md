@@ -1,26 +1,13 @@
-# Hey :wave:,
+# Hey 👋
 
-## I'm a student and a curious person kek!
-
-- 📖 I'm currently studying C++
-- 🇯🇵 I love listening to music and watching anime
-- 🍾 2022-23 Goal: Study more about computer since
-
-
-## Languages and tools:
-
-<img align="left" alt="c plus plus" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="c plus plus" width="26px" src="https://coderunnerapp.com/images/icon.png" style="padding-right:10px;" /> <br>
-
-
-<details>
-	<summary>Shortcuts</summary>
-	<br>
-	[Attivita svolta](https://github.com/plumkewe/scuola/blob/main/Attivit%C3%A0%20svolta/Attivita_svolta.md) <br>
-	[Esercizi dal libro](https://github.com/plumkewe/scuola/tree/main/Esercizi%20dal%20libro) <br>
-	[Come riempire un array](https://github.com/plumkewe/CPP_miei_codici/tree/main/Miei%20codici/Array/Modi%20di%20riempire)
-</details>
+Curently studing C++ <br /> <br />
 
 
 
-![](Altro/neco-arc-happy.gif)
+### Shortcuts
+
+###### [🏫 Attivita svolta](https://github.com/plumkewe/scuola/blob/main/Attivit%C3%A0%20svolta/Attivita_svolta.md) &nbsp; [📙 Esercizi dal libro](https://github.com/plumkewe/scuola/tree/main/Esercizi%20dal%20libro) &nbsp; [🗂 Come riempire un array](https://github.com/plumkewe/CPP_miei_codici/tree/main/Miei%20codici/Array/Modi%20di%20riempire)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=plumkewe&theme=github-dark-blue&hide_border=true&border_radius=21.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=plumkewe&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF5B00D8)](https://git.io/streak-stats#gh-light-mode-only)
