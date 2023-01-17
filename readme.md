@@ -1,8 +1,6 @@
 # Hey 👋
 
 **Currently studing:** C++ <br />
-**Currently reading:** [Grokking Algorithms](https://g.co/kgs/nTsNaa)  <br /> <br />
-
 
 
 ### Shortcuts
