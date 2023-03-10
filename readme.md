@@ -4,6 +4,7 @@
 
 
 
+
 ### Shortcuts
 
 ###### [🏫 Attivita svolta](https://github.com/plumkewe/scuola/blob/main/Attivit%C3%A0%20svolta/Attivita_svolta.md) &nbsp; [📙 Esercizi dal libro](https://github.com/plumkewe/scuola/tree/main/Esercizi%20dal%20libro) &nbsp; [📚Libri](https://github.com/plumkewe/miei-codici/tree/main/Libri) &nbsp;   [📼 Video tutorial](https://github.com/plumkewe/miei-codici/tree/main/Codici-dai-video-youtube) &nbsp; [✍️ Frammenti di codice](https://github.com/plumkewe/scuola/blob/main/Frammenti%20di%20codice/readme.md)
