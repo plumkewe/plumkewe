@@ -1,6 +1,6 @@
 # Hey 👋
 
-**Currently studing:** C++ & Chess <br />
+**Currently studing:** ~C++ & Chess~  nothing <br />
 
 
 
