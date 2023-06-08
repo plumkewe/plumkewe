@@ -1,6 +1,7 @@
 # Hey 👋
 
-**Currently studing:** ~C++ & Chess~  nothing <br />
+**Currently studing:**  HTML <br />
+**Previously: CPP**
 
 
 
