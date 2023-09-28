@@ -1,6 +1,6 @@
 # Hey 👋
 
-**Currently studing:**  NOTHING <br />
+**Currently studing:**  Mapping & data <br />
 **Previously:** CPP, HTML
 
 ## Shortcuts
