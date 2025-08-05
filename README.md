@@ -5,7 +5,7 @@
 
 ## Shortcuts
 
-### 🦤 [Calendario](https://github.com/plumkewe/scuola) &nbsp; 📙 [Esercizi del libro](https://github.com/plumkewe/scuola/tree/main/Libro) &nbsp; 📚 [Libri](https://github.com/plumkewe/miei-codici/tree/main/Books) &nbsp;   📼 [Tutorial](https://github.com/plumkewe/miei-codici/tree/main/Tutorial)
+### 🦤 [Calendario](https://github.com/plumkewe/scuola) &nbsp; 📙 [Esercizi del libro](https://github.com/plumkewe/scuola/tree/main/Libro) &nbsp; 📼 [Tutorial](https://github.com/plumkewe/tutorial)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=plumkewe&theme=github-dark-blue&hide_border=true&border_radius=21.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats#gh-dark-mode-only)
